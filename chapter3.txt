@@ -1,0 +1,2 @@
+this is chapter3 and about where i learned java. 
+Java for android developent.
