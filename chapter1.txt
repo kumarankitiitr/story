@@ -1,1 +1,2 @@
 this is about first sem. and chapter1
+where i learned c++;
